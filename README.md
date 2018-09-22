@@ -15,8 +15,8 @@ This project will be done using Java and JDBC and mySQL.
 # Credits
 This is a group project in team of 4, starting from January 2018 to April 2018 (4 months). Names are not listed in order.
 
-Adam Yang           yhy1009511320@gmail.com
-Marta Yao           yao@alumni.ubc.ca
-Virgil Zhang        nighttimeflight@gmail.com
-Jean Wu             wuzhenjean@gmail.com
+<p>Adam Yang:&nbsp yhy1009511320@gmail.com </p>
+<p>Marta Yao:&nbsp yao@alumni.ubc.ca </p>
+<p>Virgil Zhang:&nbsp nighttimeflight@gmail.com</p> 
+<p>Jean Wu:&nbsp wuzhenjean@gmail.com</p>
 
