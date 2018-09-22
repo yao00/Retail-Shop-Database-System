@@ -11,3 +11,12 @@ The managers will have access to adding new cashiers, adding new managers, marki
 
 # Application Platforms
 This project will be done using Java and JDBC and mySQL. 
+
+# Credits
+This is a group project in team of 4, starting from January 2018 to April 2018 (4 months). Names are not listed in order.
+
+Adam Yang           yhy1009511320@gmail.com
+Marta Yao           yao@alumni.ubc.ca
+Virgil Zhang        nighttimeflight@gmail.com
+Jean Wu             wuzhenjean@gmail.com
+
